@@ -2,6 +2,17 @@
 
 This is a RESTful API service for logging and managing hypothetical AI safety incidents. The API allows you to create, retrieve, and delete incidents, with data persistence in MongoDB.
 
+### Live Link 
+```
+https://sparklehood-backend-1068c8193640.herokuapp.com/incidents
+```
+
+### Frontend Dashboard Live Link
+
+```
+https://sparklehood.sujal.codes
+```
+
 ## Technology Stack
 
 - **Language**: TypeScript
