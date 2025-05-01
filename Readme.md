@@ -7,6 +7,13 @@ This is a RESTful API service for logging and managing hypothetical AI safety in
 https://sparklehood-backend-1068c8193640.herokuapp.com/incidents
 ```
 
+### Although I applied for a backend role, I also developed the frontend to effectively demonstrate the functionality and proper integration of the backend APIs I built
+
+### Frontend GitHub Repo
+```
+https://github.com/SujalSharma-tech/sparklehood-frontend
+```
+
 ### Frontend Dashboard Live Link
 
 ```
